@@ -10,13 +10,13 @@ Visualize the impact of significant financial events on stock prices.
 Create both static and interactive visualizations for insightful exploration.
 Libraries Used:
 
-  NumPy: Numerical computing library for efficient data manipulation.
-  Pandas: Data analysis and manipulation library for creating dataframes.
-  Matplotlib: Basic plotting library for creating static visualizations.
-  Seaborn: Statistical data visualization library built on top of Matplotlib.
-  Plotly: Interactive visualization library for creating dynamic charts and graphs.
-  Cufflinks: Connects Plotly to Pandas Dataframes for seamless integration.
-  YFinance: Python library for downloading financial data from Yahoo Finance.
+### NumPy: Numerical computing library for efficient data manipulation.
+### Pandas: Data analysis and manipulation library for creating dataframes.
+### Matplotlib: Basic plotting library for creating static visualizations.
+### Seaborn: Statistical data visualization library built on top of Matplotlib.
+### Plotly: Interactive visualization library for creating dynamic charts and graphs.
+### Cufflinks: Connects Plotly to Pandas Dataframes for seamless integration.
+### YFinance: Python library for downloading financial data from Yahoo Finance.
 
 # Data Analysis:
 
